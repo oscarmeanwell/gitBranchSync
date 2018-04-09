@@ -1,6 +1,9 @@
 # gitBranchSync
 Bash Script to synchronise two branches
 
+Give the script execute permissions
+`chmod +x mb.sh`
+
 This script takes a branch name as an input.
 
 `./mb.sh final-branch`
