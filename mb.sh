@@ -1,3 +1,4 @@
+#!/bin/bash
 #Bash script to switch onto specified branch and update it with master, im aware this code is hideous
 #The switches you back onto master
 if [ $# -eq 0 ]; then
