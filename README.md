@@ -9,3 +9,5 @@ The purpose of this script is to push your current branch to the specified branc
 
 
 ![terminal_ouput](https://github.com/oscarmeanwell/gitBranchSync/blob/master/rsz_xp.png)
+
+There is no error handling and if you dont use it as shown it will not work.
